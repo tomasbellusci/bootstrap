@@ -1,9 +1,13 @@
 .logo{
-    height: 200px;
-    width: 200px;
+    height: 150px;
+    width: 150px;
 }
 
-.img_index{
-    height: 300px;
-    width: 300px;
+.img_size{
+    height: 350px;
+    width: 350px;
+}
+
+ul li{
+    list-style-type: none;
 }
